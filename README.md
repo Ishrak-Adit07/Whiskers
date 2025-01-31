@@ -3,8 +3,6 @@
 
 **Description:**
 - A game like Temple Run, but in Tom & Jerry theme
-- Tom tries to catch jerry through obstacles
-- If he trips, Spike comes into play
 - Built with iGraphics
 
   **Game Flow:**
